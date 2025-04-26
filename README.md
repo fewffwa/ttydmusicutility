@@ -1,5 +1,5 @@
 # What is this tool?
-It is a python script to automatically replace music with .stm files in a Paper Mario: The Thousand Year Door iso without having to manually extract and rebuild it
+It is a python script to automatically replace music with .stm files in a Paper Mario: The Thousand Year Door iso without having to manually extract and rebuild it. It also has the functionality of fixing a looping bug existing in files exported from the Gamecube fork of audacity. 
 # What platforms is this tool for? 
 Currently only windows, but may possibly change in the future!
 # How do I use it? 
